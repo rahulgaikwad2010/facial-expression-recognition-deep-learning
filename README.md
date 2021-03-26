@@ -18,7 +18,7 @@ In the project, we will be working with a specified dataset of images. we will t
 |  ├── dataset       - this folder contains training & testing data.
 |  │    ├──  PrivateTest_data_images.npy
 |  |    ├──  PublicTest_data_images.npy
-|  |    ├──  [Training_data_images.npy](https://www.kaggle.com/rahulgaikwad2010/emotion-detection) (Omitted Because > 25 MB)
+|  |    ├──  Training_data_images.npy (Omitted Because > 25 MB)
 |  |    └──  Training_data_labels.npy
 |  │
 └────── Facial Expression Recognition.ipynb
@@ -73,6 +73,6 @@ The dataset have images of the faces which have the expressions or 7 classes as 
 
 <br/>
 
-I welcome your questions. Write to rahul.gaikwad2010@gmail.com
+Download Dataset from [here](https://www.kaggle.com/rahulgaikwad2010/emotion-detection) I welcome your questions. Write to rahul.gaikwad2010@gmail.com
 
 <br/>
