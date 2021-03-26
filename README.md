@@ -1,4 +1,4 @@
-# Facial Expression Recognition Machine Learning & Deep Learning 
+# Facial Expression Recognition 
 
 In the project, we will be working with a specified dataset of images. we will then explore the data and try the statistical learning approaches that we have covered in this course to tackle the task associated with the dataset. The statistical approaches should cover both conventional machine learning (i.e. not deep learning), from the first half of the unit, and deep learning from the second half. A goal of the project is to explore the approaches we've leant, or perhaps beyond those, in order to build a high-performing system.
 
