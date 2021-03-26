@@ -1,12 +1,12 @@
-# Facial Expression Recognition Deep Learning
+# Facial Expression Recognition Machine Learning & Deep Learning 
 
-In a first-price auction, the highest bidder wins and pays the price they bid if it exceeds the reserve price. The optimal strategy of a bidder is to shade their bids (bid less than their true value of the inventory). However, the bidder needs to win a certain amount to achieve their goals. This suggests they need to shade as much as possible while maintaining a certain win rate.
+In the project, we will be working with a specified dataset of images. we will then explore the data and try the statistical learning approaches that we have covered in this course to tackle the task associated with the dataset. The statistical approaches should cover both conventional machine learning (i.e. not deep learning), from the first half of the unit, and deep learning from the second half. A goal of the project is to explore the approaches we've leant, or perhaps beyond those, in order to build a high-performing system.
 
 # Table Of Contents
 -  [Project Structure Overview](#project-structure-overview)
 -  [Introduction](#introduction)
--  [Problem Statement](#problem-statement)
--  [Questions](#questions)
+-  [Project Goal](#project-goal)
+-  [Data Set](#data-set)
 -  [Version](#version)
 -  [Author](#author)
 
@@ -14,11 +14,14 @@ In a first-price auction, the highest bidder wins and pays the price they bid if
 
 ### Project Structure Overview
 ```
-├── Real Time First Price Auctions Machine Learning
-|  ├── data          - this folder contains training data.
-|  │    └── Auction_Dataset_Trimmed.csv - trimmed data is uploaded due to max limit
+├── Facial Expression Recognition Deep Learning
+|  ├── dataset       - this folder contains training & testing data.
+|  │    ├──  PrivateTest_data_images.npy
+|  |    ├──  PublicTest_data_images.npy
+|  |    ├──  Training_data_images.npy
+|  |    └──  Training_data_labels.npy
 |  │
-└───── Real Time First Price Auctions.ipynb
+└────── Facial Expression Recognition.ipynb
 ```
 
 <br/>
