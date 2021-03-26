@@ -18,7 +18,7 @@ In the project, we will be working with a specified dataset of images. we will t
 |  ├── dataset       - this folder contains training & testing data.
 |  │    ├──  PrivateTest_data_images.npy
 |  |    ├──  PublicTest_data_images.npy
-|  |    ├──  Training_data_images.npy
+|  |    ├──  [Training_data_images.npy](https://www.kaggle.com/rahulgaikwad2010/emotion-detection) (Omitted Because > 25 MB)
 |  |    └──  Training_data_labels.npy
 |  │
 └────── Facial Expression Recognition.ipynb
